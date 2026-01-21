@@ -1,0 +1,22 @@
+{
+  "name": "functional",
+  "displayName": "functional",
+  "description": "Dark theme for dotnet development",
+  "version": "0.0.1",
+  "publisher": "BataTesting",
+  "engines": {
+    "vscode": "^1.108.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "functional",
+        "uiTheme": "vs-dark",
+        "path": "./themes/functional-color-theme.json"
+      }
+    ]
+  }
+}
