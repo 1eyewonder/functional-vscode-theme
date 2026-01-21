@@ -1,6 +1,6 @@
 {
-  "name": "functional",
-  "displayName": "functional",
+  "name": "functional-vscode-theme",
+  "displayName": "functional-vscode-theme",
   "description": "Dark theme for dotnet development",
   "version": "0.0.1",
   "publisher": "BataTesting",
