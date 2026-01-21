@@ -8,6 +8,11 @@
     "type": "git",
     "url": "https://github.com/1eyewonder/functional-vscode-theme"
   },
+  "keywords": [
+    "dark",
+    "dark theme",
+    "functional"
+  ],
   "engines": {
     "vscode": "^1.108.0"
   },
